@@ -8,7 +8,7 @@ Le but de ce projet est de realisé un script qui premet de faire une configurat
 Pour réaliser notre projet on aura besoin d'un systeme d' exploitation de noyau linux. Nous avons choisi d'utiliser Ubuntu Server 20.04.
 
 # Etapes de réalisation 
-## Installer Python : 
+## Installation Python : 
 Assurez-vous que Python est installé sur votre système en suivant les instructions d'installation pour votre système d'exploitation via la commande:
 ```bash
 sudo apt update
